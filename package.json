@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-uuid-token-auth-rest-api",
+  "version": "1.0.0",
+  "description": "Proyecto simple de rest-api con nodejs y uuid-token-auth ",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rodrigo Centurión",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^3.3.2"
+  }
+}
